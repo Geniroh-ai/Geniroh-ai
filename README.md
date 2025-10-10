@@ -7,7 +7,7 @@ Excited to publish my portfolio of ML and GenAI projects and experiments here! �
 
 
 👾 MBA Graduate from IIM Shillong + M.Sc Business Analytics @ UCL</br>
-🤖 Professional Work Experience in Product & Project Management in Banking, IT Consulting, Software Development, Social Sector Capacity Building.</br>
+🤖 Experience in Product & Project Management in Banking, IT Consulting, Software Development, Social Sector Capacity Building.</br>
 🏋🏻 I’m currently working on experimenting with GenAI Multi Agent orchestration use cases using Langchain.</br>
 🌱 I’m currently learning about Digital Signal Processing and how to program audio effect plugins!</br>
 📫 How to reach me: Drop me an email [HERE](genirohngls@gmail.com)</br>
