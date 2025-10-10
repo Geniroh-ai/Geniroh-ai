@@ -18,10 +18,6 @@ Excited to publish my portfolio of ML and GenAI projects and experiments here! �
 
 ## 📊 GitHub Stats
 [![Geniroh Github Stats](https://github-readme-stats.vercel.app/api?username=Geniroh-ai&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geniroh-ai&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Geniroh-ai&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_geniroh_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sharan-subrahmanyam-0a4712123) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@genirohngls) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@jasminedragon540) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:genirohngls@gmail.com) 
